@@ -1,2 +1,2 @@
-# CC-JAVA
+# java-PracticeAssignments
 Java workshop assignments
