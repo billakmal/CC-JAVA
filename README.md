@@ -1,2 +1,3 @@
 # java-PracticeAssignments
-Java workshop assignments
+
+a collection of practice assignments in learning the Java programming language
